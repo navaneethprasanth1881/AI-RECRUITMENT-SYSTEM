@@ -283,7 +283,7 @@ streamlit run dashboard.py
 
 
 
-![Home Page](screenshots/home_page.png)
+![Home Page](home_page.png)
 
 ---
 
@@ -291,7 +291,7 @@ streamlit run dashboard.py
 
 
 
-![Resume Upload](screenshots/resume_upload.png)
+![Resume Upload](resume_upload.png)
 
 ---
 
@@ -299,7 +299,7 @@ streamlit run dashboard.py
 
 
 
-![Prediction Results](screenshots/prediction_results.png)
+![Prediction Results](prediction_results.png)
 
 ---
 
@@ -307,7 +307,7 @@ streamlit run dashboard.py
 
 
 
-![Analytics Dashboard](screenshots/analytics_dashboard.png)
+![Analytics Dashboard](analytics_dashboard.png)
 
 ---
 
@@ -315,7 +315,7 @@ streamlit run dashboard.py
 
 
 
-![n8n Workflow](screenshots/n8n_workflow.png)
+![n8n Workflow](n8n_workflow.png)
 
 This workflow automates recruitment-related activities such as candidate notifications, interview scheduling, email communication, and HR process management.
 
