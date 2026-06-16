@@ -1,0 +1,101 @@
+Candidate_ID,Name,Python,SQL,MachineLearning,Communication,CGPA,Experience_Years,Projects_Count,Certifications,Internships,AptitudeScore,CodingScore,InterviewScore,Selected,PerformanceScore
+C001,Meera,1,1,0,6,9.0,2,3,4,0,95,45,97,Likely Selected,31
+C002,Suhana,0,0,0,9,6.9,1,2,3,3,71,63,68,No,28
+C003,Farhan,0,0,0,9,8.0,1,6,5,0,50,62,79,No,27
+C004,Harsha,0,1,1,9,6.9,4,3,2,3,91,65,65,Likely Selected,30
+C005,Vishnu,1,0,1,10,6.8,0,8,1,2,89,75,77,Likely Selected,32
+C006,Midhun,0,1,0,6,6.5,3,4,5,2,87,47,61,No,26
+C007,Navya,1,1,1,6,9.8,0,1,0,1,62,63,77,No,28
+C008,Ajay,0,1,0,7,8.1,1,6,5,3,87,64,63,Likely Selected,29
+C009,Meera,1,0,0,7,6.6,3,2,3,3,82,91,61,Likely Selected,31
+C010,Vishnu,1,1,1,6,5.6,3,5,0,3,85,80,91,Yes,32
+C011,Navya,1,1,1,5,8.3,2,4,5,3,76,73,73,Likely Selected,29
+C012,Anson,0,0,1,9,6.4,2,4,1,3,76,69,93,Likely Selected,32
+C013,Anu,1,1,1,8,9.3,0,8,0,2,62,81,90,Likely Selected,32
+C014,Diya,0,1,1,8,8.0,0,7,2,1,57,63,79,No,27
+C015,Midhun,1,1,0,8,7.7,2,7,1,3,52,62,72,No,26
+C016,Aditya,1,0,1,9,7.6,4,4,4,1,90,54,60,No,28
+C017,Aravind,1,1,1,8,6.6,4,7,1,2,66,76,53,No,27
+C018,Neha,0,0,1,9,9.4,4,6,0,1,63,85,88,Likely Selected,32
+C019,Fathima,1,1,1,9,9.5,0,6,2,0,92,61,97,Likely Selected,34
+C020,Anu,0,0,0,9,6.3,1,6,2,0,73,96,82,Likely Selected,33
+C021,Joel,0,1,1,8,5.8,0,8,4,3,90,64,80,Likely Selected,31
+C022,Riya,0,0,0,5,7.1,1,7,4,2,77,67,65,No,27
+C023,Suhana,1,1,0,9,6.7,0,2,0,3,65,98,81,Likely Selected,32
+C024,Meera,1,0,1,5,9.5,4,3,0,3,92,88,99,Yes,36
+C025,Nithin,1,1,0,8,9.4,4,8,1,3,86,56,87,Likely Selected,31
+C026,Nihal,0,1,0,7,9.6,0,3,0,1,64,47,60,No,25
+C027,Shamil,0,0,1,7,7.0,2,1,1,2,59,56,96,Likely Selected,28
+C028,Devika,1,0,0,9,5.9,3,4,1,0,61,70,88,Likely Selected,29
+C029,Krishna,0,0,0,6,5.5,4,7,0,2,58,65,57,No,24
+C030,Arjun,0,0,0,8,7.7,4,5,4,3,77,91,68,Likely Selected,31
+C031,Hiba,0,0,1,6,7.9,2,1,3,2,52,79,76,No,28
+C032,Riya,0,1,1,5,9.0,4,5,4,2,75,94,98,Likely Selected,34
+C033,Sreya,1,0,0,8,9.7,2,2,0,1,50,87,66,No,28
+C034,Akhil,1,0,0,10,7.8,1,4,1,1,98,96,89,Likely Selected,37
+C035,Meera,0,1,0,5,7.0,2,1,3,2,78,57,89,Likely Selected,29
+C036,Sneha,1,1,0,10,9.5,2,1,4,0,66,74,62,No,29
+C037,Ameer,1,1,1,9,5.7,3,7,5,0,63,46,61,No,24
+C038,Ameer,1,1,0,6,6.1,0,1,2,0,85,80,91,Likely Selected,32
+C039,Akhil,1,1,1,6,8.3,1,3,1,2,56,87,81,Likely Selected,30
+C040,Devika,0,1,0,7,6.1,3,3,1,1,65,71,54,No,25
+C041,Midhun,0,1,1,7,5.6,0,2,3,3,51,97,93,Likely Selected,31
+C042,Fidha,0,0,1,5,9.3,2,2,1,2,89,55,62,No,28
+C043,Varun,1,0,0,5,6.7,3,1,1,1,66,92,85,Likely Selected,31
+C044,Aditya,0,0,0,8,9.1,2,4,0,1,94,77,57,Likely Selected,31
+C045,Nithin,1,0,0,9,5.6,2,3,0,3,90,70,52,Likely Selected,28
+C046,Anjali,0,0,1,5,6.5,1,3,0,1,87,78,78,Likely Selected,31
+C047,Yaseen,0,0,0,5,5.9,0,1,3,2,78,90,53,Likely Selected,28
+C048,Alan,1,0,1,5,9.5,4,2,3,3,64,84,59,No,28
+C049,Nithin,1,0,1,8,9.7,1,7,5,2,93,82,49,Likely Selected,31
+C050,Ajay,1,1,1,9,9.5,1,5,0,1,74,92,97,Yes,35
+C051,Anu,0,0,0,6,8.5,0,7,2,1,92,55,56,No,27
+C052,Sneha,1,0,1,5,6.2,0,3,5,1,50,55,82,No,25
+C053,Fidha,0,0,1,9,8.0,0,5,4,0,94,80,69,Likely Selected,33
+C054,Nayana,0,1,0,7,7.6,1,1,3,2,78,91,89,Likely Selected,34
+C055,Meera,0,1,1,10,9.5,3,8,4,1,97,59,84,Likely Selected,33
+C056,Vivek,0,0,0,7,7.6,2,7,0,0,89,75,51,Likely Selected,29
+C057,Rakesh,1,0,1,7,7.7,3,6,0,3,72,48,73,No,26
+C058,Nived,1,1,0,9,8.2,3,2,0,2,86,59,69,Likely Selected,30
+C059,Ameer,1,1,0,5,6.0,4,3,5,0,80,90,64,Likely Selected,30
+C060,Athira,0,0,0,9,7.2,0,8,2,3,70,62,99,Likely Selected,31
+C061,Krishna,1,1,0,7,7.8,4,8,4,0,94,47,95,Likely Selected,31
+C062,Gayathri,0,1,1,8,9.2,4,1,4,0,93,45,76,Likely Selected,30
+C063,Farhan,0,0,1,6,6.1,2,4,5,2,56,66,67,No,25
+C064,Priya,1,1,1,6,8.5,4,2,4,0,82,95,85,Yes,34
+C065,Priya,0,1,0,8,8.8,1,8,1,2,96,96,66,Likely Selected,34
+C066,Akhil,0,0,1,7,6.5,3,1,0,1,73,91,97,Likely Selected,34
+C067,Rahul,1,1,0,6,9.2,2,8,5,2,61,94,74,Likely Selected,31
+C068,Devika,0,1,1,5,9.1,0,6,3,2,62,83,72,Likely Selected,29
+C069,Aswin,1,0,0,10,7.9,2,1,5,1,91,70,82,Likely Selected,33
+C070,Afnan,1,0,1,7,7.9,3,7,3,3,79,84,72,Likely Selected,31
+C071,Nayana,0,1,0,8,9.7,1,1,4,2,54,72,90,Likely Selected,30
+C072,Kiran,1,1,1,9,5.9,4,5,1,3,69,75,87,Likely Selected,31
+C073,Priya,0,0,1,7,8.7,4,3,5,1,93,46,68,No,28
+C074,Fidha,1,0,0,5,7.7,4,6,2,0,56,88,70,Likely Selected,28
+C075,Sandra,1,1,1,5,6.5,1,6,3,3,94,70,56,Likely Selected,28
+C076,Gayathri,0,1,1,7,8.8,2,3,3,1,68,77,71,Likely Selected,29
+C077,Neha,0,0,1,5,9.7,2,3,1,1,79,54,94,Likely Selected,30
+C078,Midhun,1,0,0,7,8.4,0,5,1,1,90,47,71,No,28
+C079,Anjali,1,0,0,6,8.1,1,1,1,1,68,92,79,Likely Selected,31
+C080,Krishna,0,0,1,10,8.4,3,8,0,1,67,90,58,Likely Selected,30
+C081,Varun,0,1,1,7,5.8,1,3,4,0,72,52,63,No,25
+C082,Aditya,1,1,1,6,7.8,1,7,4,3,67,57,81,No,27
+C083,Suhana,1,1,1,9,8.6,0,1,1,1,73,64,73,Likely Selected,29
+C084,Afnan,1,0,1,5,7.2,3,3,0,0,73,93,80,Likely Selected,31
+C085,Afnan,1,0,1,6,7.6,1,7,5,1,67,97,92,Yes,33
+C086,Riya,1,0,0,7,9.8,0,2,3,3,54,65,51,No,24
+C087,Yaseen,1,0,1,10,7.5,0,7,3,1,73,45,57,No,25
+C088,Aravind,1,1,1,6,8.0,0,5,0,1,56,56,79,No,26
+C089,Gayathri,1,1,0,10,9.2,4,7,0,3,53,93,65,Likely Selected,30
+C090,Sreya,1,0,0,10,8.8,1,4,0,2,75,93,53,Likely Selected,31
+C091,Nayana,1,0,0,7,6.9,1,8,1,2,59,97,82,Likely Selected,31
+C092,Vivek,1,1,1,7,9.8,1,8,0,1,95,89,64,Likely Selected,33
+C093,Rohan,0,1,0,5,9.0,2,8,3,3,74,81,48,No,27
+C094,Aparna,1,1,1,5,9.6,2,7,1,0,50,71,49,No,24
+C095,Gayathri,1,1,1,6,5.6,2,8,0,0,94,78,85,Yes,32
+C096,Arjun,0,1,1,9,8.1,4,3,2,0,72,65,53,No,27
+C097,Devika,1,1,1,8,6.0,0,6,3,2,68,92,90,Likely Selected,32
+C098,Suhana,1,1,1,7,7.9,4,7,3,0,91,64,66,Likely Selected,30
+C099,Rohan,1,0,1,10,8.2,4,7,3,2,83,56,90,Likely Selected,32
+C100,Priya,0,0,1,9,5.7,4,6,1,2,86,65,62,Likely Selected,29
